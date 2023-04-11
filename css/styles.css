@@ -4169,7 +4169,7 @@ textarea.form-control-lg {
   text-decoration: underline;
 }
 
-#card1 {
+.cardTypeColor {
   cursor: pointer;
   text-align: center;
 
