@@ -23,6 +23,10 @@ const change_card = (cardName, backgroundColor, textColor) => {
         document.querySelector("#card1").style.backgroundColor = backgroundColor;
         document.querySelector("#card1").style.color = textColor;
 
+        document.querySelector("#card2").style.backgroundColor = backgroundColor;
+        document.querySelector("#card2").style.color = textColor;
+
+        
     } catch {/* nothing needed to be done; */}
 
 }

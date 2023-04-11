@@ -6,5 +6,7 @@ document.querySelector("#card1").addEventListener("click", ()=> {
 });
 
 
-
+document.querySelector("#card2").addEventListener("click", ()=> {
+    location.href = "https://ipfs.zipswap.fi/#/swap/0xe1C75fBBF22d14ac22e51fff62f47f459C9e61A0";
+});
 
